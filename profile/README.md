@@ -114,38 +114,10 @@ Transform empty rooms into beautifully staged spaces for real estate
 
 | Metric               | Value          |
 | -------------------- | -------------- |
-| ⚡ Processing Time   | **<2 minutes** |
+| ⚡ Processing Time   | **<60 seconds** |
 | 👥 Satisfied Users   | **10,000+**    |
 | 💯 Authentic Results | **100%**       |
 | ⭐ User Rating       | **4.8/5**      |
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
-
-</div>
-
----
-
-## 🌟 Featured Repositories
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME/veya-image-ai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=veya-image-ai&theme=dark" />
-</a>
 
 </div>
 
