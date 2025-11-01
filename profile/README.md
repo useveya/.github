@@ -10,7 +10,7 @@ _The AI that understands natural language like GPT for images_
 
 [![Website](https://img.shields.io/badge/🌐_Website-useveya.com-blue?style=flat-square)](https://www.useveya.com)
 [![Twitter](https://img.shields.io/badge/Twitter-@VeyaImage-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/VeyaImage)
-[![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME)
+[![Stars](https://img.shields.io/github/stars/useveya?style=flat-square&logo=github)](https://github.com/useveya)
 
 </div>
 
@@ -166,7 +166,7 @@ Transform empty rooms into beautifully staged spaces for real estate
 
 | Resource              | Link                                                               |
 | --------------------- | ------------------------------------------------------------------ |
-| 📖 Documentation      | [GitHub Docs](https://github.com/YOUR_USERNAME/veya-image-ai)      |
+| 📖 Documentation      | [GitHub Docs](https://github.com/useveya)                          |
 | 🌐 Main Website       | [useveya.com](https://www.useveya.com)                             |
 | 📝 Dating Photos Blog | [Blog →](https://www.useveya.com/image-ai/dating/blogs)            |
 | 📝 LinkedIn Blog      | [Blog →](https://www.useveya.com/image-ai/linkedin-headshot/blogs) |
@@ -178,9 +178,9 @@ Transform empty rooms into beautifully staged spaces for real estate
 
 We welcome contributions from the community!
 
-- 🐛 **Found a bug?** [Open an issue](https://github.com/YOUR_USERNAME/veya-image-ai/issues)
-- 💡 **Have an idea?** [Start a discussion](https://github.com/YOUR_USERNAME/veya-image-ai/discussions)
-- 🔧 **Want to contribute?** Check our [Contributing Guide](https://github.com/YOUR_USERNAME/veya-image-ai/blob/main/CONTRIBUTING.md)
+- 🐛 **Found a bug?** [Open an issue](https://github.com/useveya/useveya/issues)
+- 💡 **Have an idea?** [Start a discussion](https://github.com/useveya/useveya/discussions)
+- 🔧 **Want to contribute?** Check our [Contributing Guide](https://github.com/useveya/useveya/blob/main/CONTRIBUTING.md)
 - ⭐ **Like what we do?** Give us a star!
 
 ---
