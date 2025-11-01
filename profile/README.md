@@ -112,12 +112,12 @@ Transform empty rooms into beautifully staged spaces for real estate
 
 <div align="center">
 
-| Metric               | Value          |
-| -------------------- | -------------- |
-| ⚡ Processing Time   | **<60 seconds** |
-| 👥 Satisfied Users   | **10,000+**    |
-| 💯 Authentic Results | **100%**       |
-| ⭐ User Rating       | **4.8/5**      |
+| Metric               | Value           |
+| -------------------- | --------------- |
+| ⚡ Processing Time   | **<15 seconds** |
+| 👥 Satisfied Users   | **10,000+**     |
+| 💯 Authentic Results | **100%**        |
+| ⭐ User Rating       | **4.8/5**       |
 
 </div>
 
